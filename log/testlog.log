@@ -1,0 +1,27 @@
+2017-05-30 15:56:56,113 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]   Element is visible
+2017-05-30 16:02:43,291 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]   Element is visible
+2017-05-30 16:07:20,179 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]   Element is visible
+2017-05-30 16:10:48,469 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]   Element is visible
+2017-05-30 16:12:24,425 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]   Element is visible
+2017-05-30 16:13:29,202 - org.apache.commons.logging.Log -INFO - By.id: com.fisglobal.lfi.pnc:id/submit_edit_text_error  Element is not visible
+2017-05-30 16:19:08,787 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]   Element is visible
+2017-05-30 16:19:48,511 - org.apache.commons.logging.Log -INFO - By.id: com.fisglobal.lfi.pnc:id/submit_edit_text_error  Element is not visible
+2017-05-30 16:31:47,056 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]  Element is not visible
+2017-05-30 16:32:54,010 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]   Element is visible
+2017-05-30 16:35:35,641 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]  Element is not visible
+2017-05-30 16:38:26,216 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]   Element is visible
+2017-05-30 16:42:00,578 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]   Element is visible
+2017-05-30 16:43:35,389 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[@text='Enter Answer']  Element is not visible
+2017-05-30 16:45:50,794 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.EditText[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/submit_edit_text_entry')]   Element is visible
+2017-06-14 16:57:01,201 - org.apache.commons.logging.Log -INFO - Click on Continue
+2017-06-14 16:57:32,350 - org.apache.commons.logging.Log -ERROR - Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'IPLLOANER0319', ip: '192.168.42.110', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{appPackage=com.pnc.ecommerce.mobile.finder, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=03157df388c7b934, platform=LINUX, appActivity=com.fisglobal.lfi.pnc.ui.MainActivity, desired={appPackage=com.pnc.ecommerce.mobile.finder, appActivity=com.fisglobal.lfi.pnc.ui.MainActivity, platformVersion=6.0.1, browserName=Android, platformName=Android, deviceName=03157df388c7b934, autoAcceptAlerts=true}, platformVersion=6.0.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android, autoAcceptAlerts=true}]
+Session ID: 8cab840e-bc89-4962-8fac-0be1304f2ae1
+2017-06-14 17:04:50,662 - org.apache.commons.logging.Log -INFO - Click on Continue
+2017-06-14 17:04:54,231 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.TextView[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/toolbar_title_text') and @text='SIGN IN'] is visible
+2017-06-14 17:05:00,693 - org.apache.commons.logging.Log -INFO - Click on Continue
+2017-06-14 17:05:03,305 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.TextView[@text='Enter your password'] is visible
+2017-06-14 17:05:12,249 - org.apache.commons.logging.Log -INFO - By.xpath: //android.widget.TextView[contains(@resource-id,'com.pnc.ecommerce.mobile.finder:id/toolbar_title_text') and @text='ACCOUNTS'] is visible

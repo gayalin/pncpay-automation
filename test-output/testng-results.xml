@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41651" started-at="2017-03-24T10:36:25Z" finished-at="2017-03-24T10:37:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41651" started-at="2017-03-24T10:36:25Z" finished-at="2017-03-24T10:37:07Z">
+      <class name="com.pnc.mbl.automation.regression.LoginPNCPayTest">
+        <test-method status="PASS" signature="initializeDriver()" name="initializeDriver" is-config="true" duration-ms="8783" started-at="2017-03-24T10:36:25Z" finished-at="2017-03-24T10:36:34Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeLoginTest()" name="beforeLoginTest" is-config="true" duration-ms="11" started-at="2017-03-24T10:36:34Z" depends-on-methods="com.pnc.mbl.automation.regression.BaseTest.initializeDriver" finished-at="2017-03-24T10:36:34Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyLoginToPNCPayAsValidUser()" name="verifyLoginToPNCPayAsValidUser" duration-ms="32151" started-at="2017-03-24T10:36:34Z" finished-at="2017-03-24T10:37:06Z">
+        </test-method>
+        <test-method status="PASS" signature="cleanupDriver()" name="cleanupDriver" is-config="true" duration-ms="673" started-at="2017-03-24T10:37:06Z" depends-on-methods="com.pnc.mbl.automation.regression.LoginPNCPayTest.afterTest" finished-at="2017-03-24T10:37:07Z">
+        </test-method>
+        <test-method status="PASS" signature="afterTest()" name="afterTest" is-config="true" duration-ms="0" started-at="2017-03-24T10:37:06Z" finished-at="2017-03-24T10:37:06Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

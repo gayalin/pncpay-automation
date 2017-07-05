@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="IPLLOANER0319" name="com.pnc.mbl.automation.regression.LoginPNCPayTest" tests="1" failures="0" timestamp="24 Mar 2017 14:37:07 GMT" time="41.651" errors="0">
+  <testcase name="verifyLoginToPNCPayAsValidUser" time="32.151" classname="com.pnc.mbl.automation.regression.LoginPNCPayTest"/>
+</testsuite>

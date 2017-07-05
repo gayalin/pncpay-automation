@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)" preserve-order="false">
+    <classes>
+      <class name="com.pnc.mbl.automation.regression.LoginPNCPayTest">
+        <methods>
+          <include name="beforeLoginTest"/>
+          <include name="initializeDriver"/>
+          <include name="cleanupDriver"/>
+          <include name="afterTest"/>
+          <include name="verifyLoginToPNCPayAsValidUser"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
